@@ -4,4 +4,5 @@ to  hide badidu's advertisement<br>
 但不适用于Firefox浏览器;<br>
 参考手册详见:http://open.chrome.360.cn/extension_dev/overview.html;<br>
 觉着各种插件666的不得了,捉摸着自己也想办法来他娘一发,搞点什么呢?东瞅瞅细看看,就你了,百度广告!<br>
+详细开发过程在我的博客:https://segmentfault.com/n/1330000008744317<br>
 欢迎下载使用,觉着不错给个Star就再好不过了
